@@ -1,4 +1,3 @@
-import type { RequestHandler } from "./$types";
 import openai from "$lib/openai";
 
 export const POST = (async () => {
@@ -13,4 +12,4 @@ export const POST = (async () => {
   const completion = response.data.choices[0].text;
 
   return new Response(JSON.stringify({ completion }));
-}) satisfies RequestHandler;
+})
