@@ -6,6 +6,7 @@ A sveltekit template with typescript, tailwindcss, eslint, prettier, playwright,
 * [Prettier](https://prettier.io/) - Prettier is an opinionated code formatter.
 * [Playwright](https://playwright.dev/) - Playwright is a Node.js library to automate Chromium, Firefox and WebKit with a single API.
 * [ViteTest](https://vitest.dev/) - ViteTest is a test runner for Vite projects.
+* [Supabase](https://supabase.com/) - Supabase is a open-source Firebase alternative with support for Postgres databases, edge functions, and vector embeddings.
 
 Hit the ground running with a Sveltekit template that includes everything you need to build a modern web app.
 
